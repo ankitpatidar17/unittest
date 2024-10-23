@@ -1,0 +1,12 @@
+E:\Unittest\NUnitTest\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Unittest\NUnitTest\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Unittest\NUnitTest\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Unittest\NUnitTest\ConsoleApp1\bin\Debug\EntityFramework.dll
+E:\Unittest\NUnitTest\ConsoleApp1\bin\Debug\EntityFramework.SqlServer.dll
+E:\Unittest\NUnitTest\ConsoleApp1\bin\Debug\EntityFramework.xml
+E:\Unittest\NUnitTest\ConsoleApp1\bin\Debug\EntityFramework.SqlServer.xml
+E:\Unittest\NUnitTest\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\Unittest\NUnitTest\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Unittest\NUnitTest\ConsoleApp1\obj\Debug\ConsoleA.CB28C8CC.Up2Date
+E:\Unittest\NUnitTest\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Unittest\NUnitTest\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

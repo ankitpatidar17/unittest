@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "gN8YBaIBiVw=",
+  "success": true,
+  "projectFilePath": "E:\\Unittest\\NUnitTest\\NUnitTest\\NUnitTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ankit Patidar\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
+    "C:\\Users\\Ankit Patidar\\.nuget\\packages\\coverlet.msbuild\\6.0.2\\coverlet.msbuild.6.0.2.nupkg.sha512",
+    "C:\\Users\\Ankit Patidar\\.nuget\\packages\\entityframework\\6.0.0\\entityframework.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ankit Patidar\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
+    "C:\\Users\\Ankit Patidar\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
+    "C:\\Users\\Ankit Patidar\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\Ankit Patidar\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512"
+  ],
+  "logs": []
+}
